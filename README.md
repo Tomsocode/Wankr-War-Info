@@ -29,7 +29,7 @@ If you’d like to add new info, strategies, or lore expansions:
 2. Edit the markdown
 
 3. Submit a pull request
-
+ 
 Community contributions are welcome to keep this living document fresh.
 
 ## **About WANKR Wars
